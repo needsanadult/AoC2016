@@ -14,5 +14,6 @@ while len(find_order) < 8:
 	counter += 1
 
 pw.sort()
+
 print (pw)
 
